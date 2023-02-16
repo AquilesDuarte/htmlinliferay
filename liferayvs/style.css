@@ -1,0 +1,25 @@
+body{
+    background-color: #173757;
+}
+
+.cima{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: white;
+    position: relative;
+    text-align: center;
+    
+}
+
+.botao{
+    color: white;
+    background-color: #06101a;
+    border-radius: 0.1px;
+    border-color: black;
+    cursor: pointer;
+    text-decoration: none;    
+}
+.images{
+    width: 500px;
+    height: 600px;
+}
